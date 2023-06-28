@@ -1,7 +1,7 @@
 題號: 175. Combine Two Tables
 難度: Easy
 
-## 問題描述
+## Problem Description
 Table: `Person`
 ```
 +-------------+---------+
@@ -64,5 +64,5 @@ There is no address in the address table for the personId = 1 so we return null 
 addressId = 1 contains information about the address of personId = 2.
 ```
 
-## 解決思路
+## Thinking
 In this problem, we just need to left join `Person` and `Address` tables.
