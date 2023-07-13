@@ -1,5 +1,5 @@
-題號: 178. Rank Scores
-難度: Medium
+Problem: 178. Rank Scores
+Difficulty: Medium
 
 ## Problem Description
 Table: `Scores`

@@ -1,5 +1,5 @@
-題號: 182. Duplicate Emails
-難度: Easy
+Problem: 182. Duplicate Emails
+Difficulty: Easy
 
 ## Problem Description
 Table: `Person`

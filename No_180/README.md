@@ -1,5 +1,5 @@
-題號: 180. Consecutive Numbers
-難度: Medium
+Problem: 180. Consecutive Numbers
+Difficulty: Medium
 
 ## Problem Description
 Table: `Logs`

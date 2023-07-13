@@ -1,5 +1,5 @@
-題號: 175. Combine Two Tables
-難度: Easy
+Problem: 175. Combine Two Tables
+Difficulty: Easy
 
 ## Problem Description
 Table: `Person`

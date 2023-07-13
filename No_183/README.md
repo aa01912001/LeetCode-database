@@ -1,5 +1,5 @@
-題號: 183. Customers Who Never Order
-難度: Easy
+Problem: 183. Customers Who Never Order
+Difficulty: Easy
 
 ## Problem Description
 Table: `Customers`

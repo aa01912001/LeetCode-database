@@ -1,5 +1,5 @@
-題號: 177. Nth Highest Salary
-難度: Medium
+Problem: 177. Nth Highest Salary
+Difficulty: Medium
 
 ## Problem Description
 Table: `Employee`

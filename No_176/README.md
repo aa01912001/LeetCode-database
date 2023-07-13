@@ -1,5 +1,5 @@
-題號: 176. Second Highest Salary
-難度: Medium
+Problem: 176. Second Highest Salary
+Difficulty: Medium
 
 ## Problem Description
 Table: `Employee`

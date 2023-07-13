@@ -1,5 +1,5 @@
-題號: 181. Employees Earning More Than Their Managers
-難度: Easy
+Problem: 181. Employees Earning More Than Their Managers
+Difficulty: Easy
 
 ## Problem Description
 Table: `Logs`
